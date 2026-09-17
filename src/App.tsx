@@ -147,7 +147,7 @@ function Hero() {
               金子{" "}<span className="text-[#333]">赳士</span>
             </h1>
             <a
-              href="https://github.com/yamadakenji"
+              href="https://github.com/KTAKE24"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-[#999] hover:text-[#0a0a0a] transition-colors mb-3"
